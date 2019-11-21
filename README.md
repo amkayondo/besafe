@@ -1,7 +1,7 @@
 # **Besafe**
 
 > Besafe is a platform to help people be safe on the way
-## Screen Shots
+## Basic Screen Shots
 <img src="screenShots/01.jpeg" width="200" height="400" >
 <img src="screenShots/02.jpeg" width="200" height="400" >
 <img src="screenShots/03.jpeg" width="200" height="400" >
