@@ -2,11 +2,12 @@
 
 > Besafe is a platform to help people be safe on the way
 ## Screen Shots
-![](screenShots/01.jpeg)
-![](screenShots/02.jpeg)
-![](screenShots/03.jpeg)
-![](screenShots/04.jpeg)
-![](screenShots/05.jpeg)
+<img src="screenShots/01.jpeg" width="200" height="400" >
+<img src="screenShots/02.jpeg" width="200" height="400" >
+<img src="screenShots/03.jpeg" width="200" height="400" >
+<img src="screenShots/04.jpeg" width="200" height="400" >
+<img src="screenShots/05.jpeg" width="200" height="400" >
+
 ## Main technologies used
 
 - [React Native](https://github.com/facebook/react-native)
